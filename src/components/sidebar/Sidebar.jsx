@@ -34,7 +34,6 @@ const Sidebar = () => {
           <p className='font-light'>we'll keep you update on new episodes</p>
           <button className='px-4 py-1.5 bg-white text-[15px] text-black rounded-full mt-4'>Browse podcasts</button>
         </div>
-       
       </div>
     </div>
   )
