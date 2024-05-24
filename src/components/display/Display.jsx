@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { Route, Routes, useLocation } from 'react-router-dom'
 import DisplayHome from './DisplayHome'
 import DisplayAlbum from '../album/DisplayAlbum'
-import { albumsData } from '../../assets/assets'
+import { albumsData } from '../../assets/data/assets'
 
 const Display = () => {
   const displayRef = useRef();

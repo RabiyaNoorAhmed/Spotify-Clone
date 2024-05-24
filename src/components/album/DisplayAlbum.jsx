@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import Navbar from '../navbar/Navbar'
 import { useParams } from 'react-router-dom'
-import { albumsData, assets, songsData } from '../../assets/assets';
+import { albumsData, assets, songsData } from '../../assets/data/assets';
 import { PlayerContext } from '../../context/PlayerContext';
 
 const DisplayAlbum = () => {

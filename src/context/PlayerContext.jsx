@@ -1,5 +1,5 @@
 import { createContext, useEffect, useRef, useState } from "react";
-import { songsData } from "../assets/assets";
+import { songsData } from "../assets/data/assets";
 
 export const PlayerContext = createContext();
 
